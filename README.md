@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Nicolas Van den Storme<br>A passionate AI & Data Engineer student from Belgium<br><br>🔭 I’m currently working on a smart mirror (https://github.com/Salocin684/Smart-Mirror)<br>🌱 I’m currently learning AI & Data Engineering<br>💬 Ask me about Python, SQL, Java, HTML & CSS<br>📫 How to reach me vandenstormenicolas@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/Salocin684?tab=repositories<br>
+Hi 👋, I'm Nicolas Van den Storme<br>A passionate AI & Data Engineer student from Belgium<br><br>🔭 I’m currently working on a Handwriting Recognition (https://github.com/salocin684/Handwriting-Recognition)<br>🌱 I’m currently learning AI & Data Engineering<br>💬 Ask me about Python, SQL, Java, HTML & CSS<br>📫 How to reach me vandenstormenicolas@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/Salocin684?tab=repositories<br>
 
 
 ## 🌐 Socials:
